@@ -1,0 +1,24 @@
+Resources:
+  Url: "http://127.0.0.1:4724/wd/hub"
+
+Amazon_Pixel6:
+  platformName: "Android"
+  deviceName: "Pixel_6_Pro_API_29"
+  platformVersion: "10.0"
+  automationName: "Appium"
+  app: "/Users/artemkrylov/git/BehavePorjects/Appium/apps/Amazon_in.amazon.mShop.android.shopping.apk"
+  app_relative: "./apps/Amazon_in.amazon.mShop.android.shopping.apk"
+
+
+Amazon_Pixel4:
+  platformName: "Android"
+  platformVersion: "9.0"
+  deviceName: "Pixel_4_Pro_API_28"
+  automationName: "Appium"
+  app: "/Users/artemkrylov/git/BehavePorjects/Appium/apps/Amazon_in.amazon.mShop.android.shopping.apk"
+  app_relative: "./apps/Amazon_in.amazon.mShop.android.shopping.apk"
+
+
+Server:
+  port: "4724"
+  host: "127.0.0.1"

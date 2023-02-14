@@ -1,0 +1,257 @@
+2023-02-14 01:39:12,556 :DEBUG : <module> :invoking driver
+2023-02-14 01:39:12,556 :DEBUG : <module> :invoking driver
+2023-02-14 01:39:47,123 :DEBUG : <module> :killing driver
+2023-02-14 01:39:47,123 :DEBUG : <module> :killing driver
+2023-02-14 01:42:31,667 :DEBUG : <module> :invoking driver
+2023-02-14 01:42:31,667 :DEBUG : <module> :invoking driver
+2023-02-14 01:42:39,650 :DEBUG : <module> :taping on English button
+2023-02-14 01:42:39,650 :DEBUG : <module> :taping on English button
+2023-02-14 01:42:39,653 :DEBUG : <module> :killing driver
+2023-02-14 01:42:39,653 :DEBUG : <module> :killing driver
+2023-02-14 01:43:23,612 :DEBUG : <module> :invoking driver
+2023-02-14 01:43:23,612 :DEBUG : <module> :invoking driver
+2023-02-14 01:43:29,408 :DEBUG : <module> :taping on English button
+2023-02-14 01:43:29,408 :DEBUG : <module> :taping on English button
+2023-02-14 01:43:32,329 :DEBUG : <module> :killing driver
+2023-02-14 01:43:32,329 :DEBUG : <module> :killing driver
+2023-02-14 01:44:17,415 :DEBUG : <module> :invoking driver
+2023-02-14 01:44:17,415 :DEBUG : <module> :invoking driver
+2023-02-14 01:44:24,918 :DEBUG : <module> :taping on English button
+2023-02-14 01:44:24,918 :DEBUG : <module> :taping on English button
+2023-02-14 01:44:31,198 :DEBUG : <module> :killing driver
+2023-02-14 01:44:31,198 :DEBUG : <module> :killing driver
+2023-02-14 01:46:33,813 :DEBUG : <module> :invoking driver
+2023-02-14 01:46:33,813 :DEBUG : <module> :invoking driver
+2023-02-14 01:46:33,947 :DEBUG : <module> :killing driver
+2023-02-14 01:46:33,947 :DEBUG : <module> :killing driver
+2023-02-14 01:54:46,330 :DEBUG : <module> :invoking driver
+2023-02-14 01:54:46,330 :DEBUG : <module> :invoking driver
+2023-02-14 01:55:26,085 :DEBUG : <module> :killing driver
+2023-02-14 01:55:26,085 :DEBUG : <module> :killing driver
+2023-02-14 01:55:30,083 :DEBUG : <module> :invoking driver
+2023-02-14 01:55:30,083 :DEBUG : <module> :invoking driver
+2023-02-14 01:55:38,161 :DEBUG : <module> :taping on English button
+2023-02-14 01:55:38,161 :DEBUG : <module> :taping on English button
+2023-02-14 01:55:41,153 :DEBUG : <module> :taping on continue button
+2023-02-14 01:55:41,153 :DEBUG : <module> :taping on continue button
+2023-02-14 01:55:41,811 :DEBUG : <module> :killing driver
+2023-02-14 01:55:41,811 :DEBUG : <module> :killing driver
+2023-02-14 02:18:56,916 :DEBUG : <module> :invoking driver
+2023-02-14 02:18:56,916 :DEBUG : <module> :invoking driver
+2023-02-14 02:19:08,985 :DEBUG : <module> :taping on English button
+2023-02-14 02:19:08,985 :DEBUG : <module> :taping on English button
+2023-02-14 02:19:11,730 :DEBUG : <module> :taping on continue button
+2023-02-14 02:19:11,730 :DEBUG : <module> :taping on continue button
+2023-02-14 02:19:12,417 :DEBUG : <module> :skipping signin
+2023-02-14 02:19:12,417 :DEBUG : <module> :skipping signin
+2023-02-14 02:19:15,564 :DEBUG : <module> :killing driver
+2023-02-14 02:19:15,564 :DEBUG : <module> :killing driver
+2023-02-14 02:21:45,601 :DEBUG : <module> :invoking driver
+2023-02-14 02:21:45,601 :DEBUG : <module> :invoking driver
+2023-02-14 02:21:53,102 :DEBUG : <module> :taping on English button
+2023-02-14 02:21:53,102 :DEBUG : <module> :taping on English button
+2023-02-14 02:21:55,890 :DEBUG : <module> :taping on continue button
+2023-02-14 02:21:55,890 :DEBUG : <module> :taping on continue button
+2023-02-14 02:21:56,136 :DEBUG : <module> :skipping signin
+2023-02-14 02:21:56,136 :DEBUG : <module> :skipping signin
+2023-02-14 02:21:59,735 :DEBUG : <module> :killing driver
+2023-02-14 02:21:59,735 :DEBUG : <module> :killing driver
+2023-02-14 02:28:34,080 :DEBUG : <module> :invoking driver
+2023-02-14 02:28:34,080 :DEBUG : <module> :invoking driver
+2023-02-14 02:28:43,701 :DEBUG : <module> :taping on English button
+2023-02-14 02:28:43,701 :DEBUG : <module> :taping on English button
+2023-02-14 02:28:46,509 :DEBUG : <module> :taping on continue button
+2023-02-14 02:28:46,509 :DEBUG : <module> :taping on continue button
+2023-02-14 02:28:46,789 :DEBUG : <module> :skipping signin
+2023-02-14 02:28:46,789 :DEBUG : <module> :skipping signin
+2023-02-14 02:28:50,345 :DEBUG : <module> :killing driver
+2023-02-14 02:28:50,345 :DEBUG : <module> :killing driver
+2023-02-14 02:29:58,320 :DEBUG : <module> :invoking driver
+2023-02-14 02:29:58,320 :DEBUG : <module> :invoking driver
+2023-02-14 02:30:05,299 :DEBUG : <module> :taping on English button
+2023-02-14 02:30:05,299 :DEBUG : <module> :taping on English button
+2023-02-14 02:30:07,873 :DEBUG : <module> :taping on continue button
+2023-02-14 02:30:07,873 :DEBUG : <module> :taping on continue button
+2023-02-14 02:30:08,510 :DEBUG : <module> :skipping signin
+2023-02-14 02:30:08,510 :DEBUG : <module> :skipping signin
+2023-02-14 02:30:09,452 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 02:30:09,452 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 02:30:11,456 :DEBUG : <module> :killing driver
+2023-02-14 02:30:11,456 :DEBUG : <module> :killing driver
+2023-02-14 02:31:20,950 :DEBUG : <module> :invoking driver
+2023-02-14 02:31:20,950 :DEBUG : <module> :invoking driver
+2023-02-14 02:31:35,103 :DEBUG : <module> :taping on English button
+2023-02-14 02:31:35,103 :DEBUG : <module> :taping on English button
+2023-02-14 02:31:38,155 :DEBUG : <module> :taping on continue button
+2023-02-14 02:31:38,155 :DEBUG : <module> :taping on continue button
+2023-02-14 02:31:38,832 :DEBUG : <module> :skipping signin
+2023-02-14 02:31:38,832 :DEBUG : <module> :skipping signin
+2023-02-14 02:31:39,754 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 02:31:39,754 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 02:31:41,272 :DEBUG : <module> :killing driver
+2023-02-14 02:31:41,272 :DEBUG : <module> :killing driver
+2023-02-14 10:25:28,265 :DEBUG : <module> :invoking driver
+2023-02-14 10:25:28,265 :DEBUG : <module> :invoking driver
+2023-02-14 10:25:29,757 :DEBUG : <module> :killing driver
+2023-02-14 10:25:29,757 :DEBUG : <module> :killing driver
+2023-02-14 10:27:17,361 :DEBUG : <module> :invoking driver
+2023-02-14 10:27:17,361 :DEBUG : <module> :invoking driver
+2023-02-14 10:27:25,600 :DEBUG : <module> :taping on English button
+2023-02-14 10:27:25,600 :DEBUG : <module> :taping on English button
+2023-02-14 10:27:29,276 :DEBUG : <module> :taping on continue button
+2023-02-14 10:27:29,276 :DEBUG : <module> :taping on continue button
+2023-02-14 10:27:29,474 :DEBUG : <module> :killing driver
+2023-02-14 10:27:29,474 :DEBUG : <module> :killing driver
+2023-02-14 10:39:29,278 :DEBUG : <module> :invoking driver
+2023-02-14 10:39:29,278 :DEBUG : <module> :invoking driver
+2023-02-14 10:39:29,278 :DEBUG : <module> :invoking driver
+2023-02-14 10:39:38,299 :DEBUG : <module> :taping on English button
+2023-02-14 10:39:38,299 :DEBUG : <module> :taping on English button
+2023-02-14 10:39:38,299 :DEBUG : <module> :taping on English button
+2023-02-14 10:39:40,990 :DEBUG : <module> :taping on continue button
+2023-02-14 10:39:40,990 :DEBUG : <module> :taping on continue button
+2023-02-14 10:39:40,990 :DEBUG : <module> :taping on continue button
+2023-02-14 10:39:41,630 :DEBUG : <module> :skipping signin
+2023-02-14 10:39:41,630 :DEBUG : <module> :skipping signin
+2023-02-14 10:39:41,630 :DEBUG : <module> :skipping signin
+2023-02-14 10:39:42,549 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 10:39:42,549 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 10:39:42,549 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 10:39:44,573 :DEBUG : <module> :killing driver
+2023-02-14 10:39:44,573 :DEBUG : <module> :killing driver
+2023-02-14 10:39:44,573 :DEBUG : <module> :killing driver
+2023-02-14 11:17:31,829 :DEBUG : <module> :invoking driver
+2023-02-14 11:17:31,829 :DEBUG : <module> :invoking driver
+2023-02-14 11:17:31,829 :DEBUG : <module> :invoking driver
+2023-02-14 11:17:44,936 :DEBUG : <module> :taping on English button
+2023-02-14 11:17:44,936 :DEBUG : <module> :taping on English button
+2023-02-14 11:17:44,936 :DEBUG : <module> :taping on English button
+2023-02-14 11:17:48,327 :DEBUG : <module> :taping on continue button
+2023-02-14 11:17:48,327 :DEBUG : <module> :taping on continue button
+2023-02-14 11:17:48,327 :DEBUG : <module> :taping on continue button
+2023-02-14 11:17:49,171 :DEBUG : <module> :skipping signin
+2023-02-14 11:17:49,171 :DEBUG : <module> :skipping signin
+2023-02-14 11:17:49,171 :DEBUG : <module> :skipping signin
+2023-02-14 11:17:50,228 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 11:17:50,228 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 11:17:50,228 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 11:17:52,273 :DEBUG : <module> :killing driver
+2023-02-14 11:17:52,273 :DEBUG : <module> :killing driver
+2023-02-14 11:17:52,273 :DEBUG : <module> :killing driver
+2023-02-14 11:22:02,584 :DEBUG : <module> :invoking driver
+2023-02-14 11:22:02,584 :DEBUG : <module> :invoking driver
+2023-02-14 11:22:02,584 :DEBUG : <module> :invoking driver
+2023-02-14 11:22:11,829 :DEBUG : <module> :taping on English button
+2023-02-14 11:22:11,829 :DEBUG : <module> :taping on English button
+2023-02-14 11:22:11,829 :DEBUG : <module> :taping on English button
+2023-02-14 11:22:15,101 :DEBUG : <module> :taping on continue button
+2023-02-14 11:22:15,101 :DEBUG : <module> :taping on continue button
+2023-02-14 11:22:15,101 :DEBUG : <module> :taping on continue button
+2023-02-14 11:22:15,766 :DEBUG : <module> :skipping signin
+2023-02-14 11:22:15,766 :DEBUG : <module> :skipping signin
+2023-02-14 11:22:15,766 :DEBUG : <module> :skipping signin
+2023-02-14 11:22:16,680 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 11:22:16,680 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 11:22:16,680 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 11:22:18,374 :DEBUG : <module> :killing driver
+2023-02-14 11:22:18,374 :DEBUG : <module> :killing driver
+2023-02-14 11:22:18,374 :DEBUG : <module> :killing driver
+2023-02-14 13:44:06,660 :DEBUG : <module> :invoking driver
+2023-02-14 13:44:06,660 :DEBUG : <module> :invoking driver
+2023-02-14 13:44:06,660 :DEBUG : <module> :invoking driver
+2023-02-14 13:44:16,029 :DEBUG : <module> :taping on English button
+2023-02-14 13:44:16,029 :DEBUG : <module> :taping on English button
+2023-02-14 13:44:16,029 :DEBUG : <module> :taping on English button
+2023-02-14 13:44:18,909 :DEBUG : <module> :taping on continue button
+2023-02-14 13:44:18,909 :DEBUG : <module> :taping on continue button
+2023-02-14 13:44:18,909 :DEBUG : <module> :taping on continue button
+2023-02-14 13:44:19,563 :DEBUG : <module> :skipping signin
+2023-02-14 13:44:19,563 :DEBUG : <module> :skipping signin
+2023-02-14 13:44:19,563 :DEBUG : <module> :skipping signin
+2023-02-14 13:44:20,438 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 13:44:20,438 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 13:44:20,438 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 13:44:24,241 :DEBUG : <module> :taping on English button
+2023-02-14 13:44:24,241 :DEBUG : <module> :taping on English button
+2023-02-14 13:44:24,241 :DEBUG : <module> :taping on English button
+2023-02-14 13:44:28,883 :DEBUG : <module> :taping on English button
+2023-02-14 13:44:28,883 :DEBUG : <module> :taping on English button
+2023-02-14 13:44:28,883 :DEBUG : <module> :taping on English button
+2023-02-14 13:44:33,308 :DEBUG : <module> :killing driver
+2023-02-14 13:44:33,308 :DEBUG : <module> :killing driver
+2023-02-14 13:44:33,308 :DEBUG : <module> :killing driver
+2023-02-14 14:27:31,799 :DEBUG : <module> :invoking driver
+2023-02-14 14:27:31,799 :DEBUG : <module> :invoking driver
+2023-02-14 14:27:31,799 :DEBUG : <module> :invoking driver
+2023-02-14 14:27:45,680 :DEBUG : <module> :taping on English button
+2023-02-14 14:27:45,680 :DEBUG : <module> :taping on English button
+2023-02-14 14:27:45,680 :DEBUG : <module> :taping on English button
+2023-02-14 14:27:49,865 :DEBUG : <module> :taping on continue button
+2023-02-14 14:27:49,865 :DEBUG : <module> :taping on continue button
+2023-02-14 14:27:49,865 :DEBUG : <module> :taping on continue button
+2023-02-14 14:27:51,768 :DEBUG : <module> :skipping signin
+2023-02-14 14:27:51,768 :DEBUG : <module> :skipping signin
+2023-02-14 14:27:51,768 :DEBUG : <module> :skipping signin
+2023-02-14 14:27:54,966 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 14:27:54,966 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 14:27:54,966 :DEBUG : <module> :asserting amazon logo visibility
+2023-02-14 14:27:59,838 :DEBUG : <module> :taping on English button
+2023-02-14 14:27:59,838 :DEBUG : <module> :taping on English button
+2023-02-14 14:27:59,838 :DEBUG : <module> :taping on English button
+2023-02-14 14:28:03,483 :DEBUG : <module> :taping on English button
+2023-02-14 14:28:03,483 :DEBUG : <module> :taping on English button
+2023-02-14 14:28:03,483 :DEBUG : <module> :taping on English button
+2023-02-14 14:28:07,268 :DEBUG : <module> :killing driver
+2023-02-14 14:28:07,268 :DEBUG : <module> :killing driver
+2023-02-14 14:28:07,268 :DEBUG : <module> :killing driver
+2023-02-14 14:28:12,298 :DEBUG : <module> :invoking driver
+2023-02-14 14:28:12,298 :DEBUG : <module> :invoking driver
+2023-02-14 14:28:12,298 :DEBUG : <module> :invoking driver
+2023-02-14 14:28:44,841 :DEBUG : <module> :killing driver
+2023-02-14 14:28:44,841 :DEBUG : <module> :killing driver
+2023-02-14 14:28:44,841 :DEBUG : <module> :killing driver
+2023-02-14 14:32:53,017 :DEBUG : <module> :invoking driver
+2023-02-14 14:32:53,017 :DEBUG : <module> :invoking driver
+2023-02-14 14:32:53,017 :DEBUG : <module> :invoking driver
+2023-02-14 14:33:04,050 :DEBUG : <module> :taping on English button
+2023-02-14 14:33:04,050 :DEBUG : <module> :taping on English button
+2023-02-14 14:33:04,050 :DEBUG : <module> :taping on English button
+2023-02-14 14:33:07,758 :DEBUG : <module> :taping on English button
+2023-02-14 14:33:07,758 :DEBUG : <module> :taping on English button
+2023-02-14 14:33:07,758 :DEBUG : <module> :taping on English button
+2023-02-14 14:33:08,616 :DEBUG : <module> :taping on continue button
+2023-02-14 14:33:08,616 :DEBUG : <module> :taping on continue button
+2023-02-14 14:33:08,616 :DEBUG : <module> :taping on continue button
+2023-02-14 14:33:09,377 :DEBUG : <module> :skipping signin
+2023-02-14 14:33:09,377 :DEBUG : <module> :skipping signin
+2023-02-14 14:33:09,377 :DEBUG : <module> :skipping signin
+2023-02-14 14:33:10,426 :DEBUG : <module> :taping on English button
+2023-02-14 14:33:10,426 :DEBUG : <module> :taping on English button
+2023-02-14 14:33:10,426 :DEBUG : <module> :taping on English button
+2023-02-14 14:33:14,732 :DEBUG : <module> :killing driver
+2023-02-14 14:33:14,732 :DEBUG : <module> :killing driver
+2023-02-14 14:33:14,732 :DEBUG : <module> :killing driver
+2023-02-14 14:33:52,530 :DEBUG : <module> :killing driver
+2023-02-14 14:33:52,530 :DEBUG : <module> :killing driver
+2023-02-14 14:33:52,530 :DEBUG : <module> :killing driver
+2023-02-14 15:10:10,549 :DEBUG : <module> :invoking driver
+2023-02-14 15:10:10,549 :DEBUG : <module> :invoking driver
+2023-02-14 15:10:10,549 :DEBUG : <module> :invoking driver
+2023-02-14 15:10:21,128 :DEBUG : <module> :taping on English button
+2023-02-14 15:10:21,128 :DEBUG : <module> :taping on English button
+2023-02-14 15:10:21,128 :DEBUG : <module> :taping on English button
+2023-02-14 15:10:25,087 :DEBUG : <module> :taping on English button
+2023-02-14 15:10:25,087 :DEBUG : <module> :taping on English button
+2023-02-14 15:10:25,087 :DEBUG : <module> :taping on English button
+2023-02-14 15:10:26,346 :DEBUG : <module> :taping on continue button
+2023-02-14 15:10:26,346 :DEBUG : <module> :taping on continue button
+2023-02-14 15:10:26,346 :DEBUG : <module> :taping on continue button
+2023-02-14 15:10:27,101 :DEBUG : <module> :skipping signin
+2023-02-14 15:10:27,101 :DEBUG : <module> :skipping signin
+2023-02-14 15:10:27,101 :DEBUG : <module> :skipping signin
+2023-02-14 15:10:28,569 :DEBUG : <module> :taping on English button
+2023-02-14 15:10:28,569 :DEBUG : <module> :taping on English button
+2023-02-14 15:10:28,569 :DEBUG : <module> :taping on English button
+2023-02-14 15:10:32,549 :DEBUG : <module> :killing driver
+2023-02-14 15:10:32,549 :DEBUG : <module> :killing driver
+2023-02-14 15:10:32,549 :DEBUG : <module> :killing driver
