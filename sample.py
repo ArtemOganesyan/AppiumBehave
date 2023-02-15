@@ -11,14 +11,23 @@ from appium.webdriver.appium_service import AppiumService
 # service.start(args=['--address', str(default_host), '-p', str(default_port)])
 
 """"
-Issues:
+Known Issues/question:
 
-app relative path
-logger
+bdd/pom structure
+app config relative path
+logger double writing
 appium server pragmatic
 login logcat
 sending image to device
-aws deployment
-runningn on real devices
 
+Read: 
+
+AWS
+
+boto:
+https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+
+cloud watch:
+https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2#home:
 """
+

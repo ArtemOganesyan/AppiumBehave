@@ -11,7 +11,7 @@ from logger import get_logger
 log = get_logger()
 
 
-def before_all(context):
+def before_scenario(context, scenario):
     # starting server, code is not working
     # default_port = get()['Server']['port']
     # default_host = get()['Server']['host']
@@ -20,13 +20,13 @@ def before_all(context):
 
 
     # invoking driver
-    dc = get()['Amazon_Pixel4']
+    dc = get()['Amazon_Pixel6']
     log.debug('invoking driver')
     context.driver = webdriver.Remote(get()['Resources']['Url'], desired_capabilities=dc)
     context.driver.implicitly_wait(3)
 
 
-def after_all(context):
+def after_scenario(context, scenario):
     log.debug('killing driver')
     context.driver.quit()
     # context.appium_service.stop()

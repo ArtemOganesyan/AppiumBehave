@@ -4,14 +4,13 @@ Feature: Amazon IN app
         When I tap continue button
         And I skip signin
 
-    Scenario: Verify home screen opens
+    @test1
+    Scenario: Home Screen opening verification
         Then I see amazon logo
 
-    Scenario Outline: Verify 'Pocket friendly' section is displayed
-        Then I scroll down to text '<header>'
+    @test2
+    Scenario: Verify Sections Headers are displayed on Home Screen
+        When I scroll down to Pocket friendly stores on Home Screen
+        Then I see top picks under 199 image
 
-        Examples:
-        |header|
-        |Pocket friendly stores|
-        |Curated stores for you|
 

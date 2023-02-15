@@ -6,7 +6,7 @@ def get_logger():
     logger_name = inspect.stack()[1][3]
     logger = logging.getLogger(logger_name)
     file_handler = logging.FileHandler('./logs/logfile.logs')
-    formatter = logging.Formatter("%(asctime)s :%(levelname)s : %(name)s :%(message)s")
+    formatter = logging.Formatter("%(asctime)s :%(levelname)s :%(message)s")
     file_handler.setFormatter(formatter)
 
     logger.addHandler(file_handler)

@@ -71,27 +71,27 @@ def switch_to_activity(driver, pacakge, activity):
 # Ui Selector Class methods
 def scroll_to_element(driver, ui_sel_short_locator):
     driver.find_element(AppiumBy.ANDROID_UIAUTOMATOR,
-                        f'new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView(new UiSelector().{ui_sel_short_locator}.instance(0))')
+                        f'new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView({ui_sel_short_locator}.instance(0))')
 
 def scroll_long_to_element(driver, ui_sel_short_locator, max_swipes):
     driver.find_element(AppiumBy.ANDROID_UIAUTOMATOR,
-                        f'new UiScrollable(new UiSelector().scrollable(true).instance(0)).setMaxSearchSwipes({max_swipes})scrollIntoView(new UiSelector().{ui_sel_short_locator}.instance(0))')
+                        f'new UiScrollable(new UiSelector().scrollable(true).instance(0)).setMaxSearchSwipes({max_swipes})scrollIntoView({ui_sel_short_locator}.instance(0))')
 
 
 def scroll_to_element_horizontal(driver, ui_sel_short_locator):
     driver.find_element(AppiumBy.ANDROID_UIAUTOMATOR,
-                        f'new UiScrollable(new UiSelector().scrollable(true).instance(0)).setAsHorizontalList().scrollIntoView(new UiSelector().{ui_sel_short_locator}.instance(0))')
+                        f'new UiScrollable(new UiSelector().scrollable(true).instance(0)).setAsHorizontalList().scrollIntoView({ui_sel_short_locator}.instance(0))')
 
 
 def scroll_to_element_vertical(driver, ui_sel_short_locator):
     driver.find_element(AppiumBy.ANDROID_UIAUTOMATOR,
-                        f'new UiScrollable(new UiSelector().scrollable(true).instance(0)).setAsVerticalList().scrollIntoView(new UiSelector().{ui_sel_short_locator}.instance(0))')
+                        f'new UiScrollable(new UiSelector().scrollable(true).instance(0)).setAsVerticalList().scrollIntoView({ui_sel_short_locator}.instance(0))')
 
 
 # ???
 def swipe_to_element(driver, ui_sel_short_locator):
     driver.find_element(AppiumBy.ANDROID_UIAUTOMATOR,
-                        f'new UiScrollable(new UiSelector().scrollable(true).setAsVerticalList().scrollIntoView(new UiSelector().{ui_sel_short_locator}.instance(0))')
+                        f'new UiScrollable(new UiSelector().scrollable(true).setAsVerticalList().scrollIntoView({ui_sel_short_locator}.instance(0))')
 
 
 # Native Keyboard Events
