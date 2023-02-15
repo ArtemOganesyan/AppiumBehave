@@ -1,0 +1,68 @@
+2023-02-14 22:27:42,050 :DEBUG :invoking driver
+2023-02-14 22:27:42,050 :DEBUG :invoking driver
+2023-02-14 22:27:48,013 :DEBUG :<Scenario "Home Screen opening verification"> taping on English button
+2023-02-14 22:27:48,013 :DEBUG :<Scenario "Home Screen opening verification"> taping on English button
+2023-02-14 22:27:50,476 :DEBUG :<Scenario "Home Screen opening verification"> taping on continue button
+2023-02-14 22:27:50,476 :DEBUG :<Scenario "Home Screen opening verification"> taping on continue button
+2023-02-14 22:27:50,746 :DEBUG :<Scenario "Home Screen opening verification"> skipping signin
+2023-02-14 22:27:50,746 :DEBUG :<Scenario "Home Screen opening verification"> skipping signin
+2023-02-14 22:27:51,648 :DEBUG :<Scenario "Home Screen opening verification">asserting amazon logo visibility
+2023-02-14 22:27:51,648 :DEBUG :<Scenario "Home Screen opening verification">asserting amazon logo visibility
+2023-02-14 22:27:53,178 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on English button
+2023-02-14 22:27:53,178 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on English button
+2023-02-14 22:28:00,922 :DEBUG :killing driver
+2023-02-14 22:28:00,922 :DEBUG :killing driver
+2023-02-14 22:34:00,578 :DEBUG :invoking driver
+2023-02-14 22:34:00,578 :DEBUG :invoking driver
+2023-02-14 22:34:09,089 :DEBUG :<Scenario "Home Screen opening verification"> taping on English button
+2023-02-14 22:34:09,089 :DEBUG :<Scenario "Home Screen opening verification"> taping on English button
+2023-02-14 22:34:12,470 :DEBUG :<Scenario "Home Screen opening verification"> taping on continue button
+2023-02-14 22:34:12,470 :DEBUG :<Scenario "Home Screen opening verification"> taping on continue button
+2023-02-14 22:34:13,170 :DEBUG :<Scenario "Home Screen opening verification"> skipping signin
+2023-02-14 22:34:13,170 :DEBUG :<Scenario "Home Screen opening verification"> skipping signin
+2023-02-14 22:34:14,088 :DEBUG :<Scenario "Home Screen opening verification">asserting amazon logo visibility
+2023-02-14 22:34:14,088 :DEBUG :<Scenario "Home Screen opening verification">asserting amazon logo visibility
+2023-02-14 22:34:15,181 :DEBUG :killing driver
+2023-02-14 22:34:15,181 :DEBUG :killing driver
+2023-02-14 22:34:15,664 :DEBUG :invoking driver
+2023-02-14 22:34:15,664 :DEBUG :invoking driver
+2023-02-14 22:34:21,277 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on English button
+2023-02-14 22:34:21,277 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on English button
+2023-02-14 22:34:23,779 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on continue button
+2023-02-14 22:34:23,779 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on continue button
+2023-02-14 22:34:24,426 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> skipping signin
+2023-02-14 22:34:24,426 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> skipping signin
+2023-02-14 22:34:25,317 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen">scrolling to Pocket friendly stores
+2023-02-14 22:34:25,317 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen">scrolling to Pocket friendly stores
+2023-02-14 22:34:30,930 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> asserting top picks under 199 image visibility
+2023-02-14 22:34:30,930 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> asserting top picks under 199 image visibility
+2023-02-14 22:34:31,796 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taking error screenshot
+2023-02-14 22:34:31,796 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taking error screenshot
+2023-02-14 22:34:32,398 :DEBUG :killing driver
+2023-02-14 22:34:32,398 :DEBUG :killing driver
+2023-02-14 22:35:27,266 :DEBUG :invoking driver
+2023-02-14 22:35:27,266 :DEBUG :invoking driver
+2023-02-14 22:35:35,056 :DEBUG :<Scenario "Home Screen opening verification"> taping on English button
+2023-02-14 22:35:35,056 :DEBUG :<Scenario "Home Screen opening verification"> taping on English button
+2023-02-14 22:35:37,515 :DEBUG :<Scenario "Home Screen opening verification"> taping on continue button
+2023-02-14 22:35:37,515 :DEBUG :<Scenario "Home Screen opening verification"> taping on continue button
+2023-02-14 22:35:38,263 :DEBUG :<Scenario "Home Screen opening verification"> skipping signin
+2023-02-14 22:35:38,263 :DEBUG :<Scenario "Home Screen opening verification"> skipping signin
+2023-02-14 22:35:39,199 :DEBUG :<Scenario "Home Screen opening verification">asserting amazon logo visibility
+2023-02-14 22:35:39,199 :DEBUG :<Scenario "Home Screen opening verification">asserting amazon logo visibility
+2023-02-14 22:35:41,804 :DEBUG :killing driver
+2023-02-14 22:35:41,804 :DEBUG :killing driver
+2023-02-14 22:35:42,342 :DEBUG :invoking driver
+2023-02-14 22:35:42,342 :DEBUG :invoking driver
+2023-02-14 22:35:48,152 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on English button
+2023-02-14 22:35:48,152 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on English button
+2023-02-14 22:35:50,727 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on continue button
+2023-02-14 22:35:50,727 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> taping on continue button
+2023-02-14 22:35:50,976 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> skipping signin
+2023-02-14 22:35:50,976 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> skipping signin
+2023-02-14 22:35:51,863 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen">scrolling to Pocket friendly stores
+2023-02-14 22:35:51,863 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen">scrolling to Pocket friendly stores
+2023-02-14 22:35:58,810 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> asserting top picks under 199 image visibility
+2023-02-14 22:35:58,810 :DEBUG :<Scenario "Verify Sections Headers are displayed on Home Screen"> asserting top picks under 199 image visibility
+2023-02-14 22:35:58,998 :DEBUG :killing driver
+2023-02-14 22:35:58,998 :DEBUG :killing driver
