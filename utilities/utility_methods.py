@@ -1,5 +1,8 @@
 import base64
+import time
 
+from appium.webdriver.extensions.android.gsm import GsmCallActions
+from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from appium.webdriver.common.touch_action import TouchAction
@@ -88,7 +91,7 @@ def scroll_to_element_vertical(driver, ui_sel_short_locator):
                         f'new UiScrollable(new UiSelector().scrollable(true).instance(0)).setAsVerticalList().scrollIntoView({ui_sel_short_locator}.instance(0))')
 
 
-# ???
+# check if needed
 def swipe_to_element(driver, ui_sel_short_locator):
     driver.find_element(AppiumBy.ANDROID_UIAUTOMATOR,
                         f'new UiScrollable(new UiSelector().scrollable(true).setAsVerticalList().scrollIntoView({ui_sel_short_locator}.instance(0))')
@@ -100,7 +103,7 @@ def hide(driver):
 
 
 def enter(driver):
-    driver.press_key_code(66)
+    driver.press_keycode(66)
 
 
 def back(driver):
@@ -112,6 +115,23 @@ def push_file(content, file_name, driver):
     dest_path = f'/data/local/tmp/{file_name}'
     data = bytes(content, 'utf-8')
     driver.push_file(dest_path, base64.b64encode(data).decode('utf-8'))
+
+
+# Interruptions
+
+def get_incoming_call(driver):
+    driver.make_gsm_call('3233336832', GsmCallActions.CALL)
+    time.sleep(2)
+
+
+def accept_incoming_call(driver):
+    driver.make_gsm_call('3233336832', GsmCallActions.ACCEPT)
+    time.sleep(2)
+
+def cancel_incoming_call(driver):
+    driver.make_gsm_call('3233336832', GsmCallActions.CANCEL)
+    time.sleep(2)
+
 
     # dest_path = '/data/local/tmp/test_push_file.txt'
     # data = bytes('This is the contents of the file to push to the device.', 'utf-8')

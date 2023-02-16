@@ -21,7 +21,11 @@ class HomeScreen:
 
     image_top_pics_199 = (By.XPATH, '//android.view.View[@content-desc="Top picks under ₹199 Top picks under ₹199"]/android.widget.Image')
 
+    field_search = (By.ID, 'in.amazon.mShop.android.shopping:id/rs_search_src_text')
+    header_results = (AppiumBy.ANDROID_UIAUTOMATOR, 'new Ui Selector().text("RESULTS")')
 
+    burger_navi = (By.ID, 'in.amazon.mShop.android.shopping:id/chrome_action_bar_burger_icon')
+    header_side_menu = (By.ID, 'in.amazon.mShop.android.shopping:id/gno_greeting_text_view')
 
     def __init__(self, driver):
         self.driver = driver
@@ -51,6 +55,17 @@ class HomeScreen:
     def top_pics_image_199_is_visible(self):
         visibility = utility_methods.el_is_visible(utility_methods.find_element(self.driver, HomeScreen.image_top_pics_199))
         return visibility
+
+    def input_text_into_search_field(self, text):
+        utility_methods.input_text(utility_methods.find_element(self.driver, HomeScreen.field_search), text)
+
+    def tap_navi_burger(self):
+        utility_methods.tap_element(self.driver, utility_methods.find_element(self.driver, HomeScreen.burger_navi))
+
+    def get_side_menu_header_text(self):
+        text = utility_methods.get_text(utility_methods.find_element(self.driver, HomeScreen.header_side_menu))
+        return text
+
 
 # try using
 # class UI Selector: Resource ID, Text, Partial Text
