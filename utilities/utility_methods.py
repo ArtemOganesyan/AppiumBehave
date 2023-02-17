@@ -1,4 +1,5 @@
 import base64
+import os.path
 import time
 
 from appium.webdriver.extensions.android.gsm import GsmCallActions
@@ -7,6 +8,13 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from appium.webdriver.common.touch_action import TouchAction
 from appium.webdriver.common.appiumby import AppiumBy
+
+
+def take_screenshot(driver, scenario):
+    if not os.path.exists("./screenshots"):
+        os.makedirs("./screenshots")
+
+    driver.save_screenshot(f"./screenshots/{scenario}.png")
 
 
 def wait_element_visibility(driver, timeout, locator):
@@ -131,6 +139,7 @@ def accept_incoming_call(driver):
 def cancel_incoming_call(driver):
     driver.make_gsm_call('3233336832', GsmCallActions.CANCEL)
     time.sleep(2)
+
 
 
     # dest_path = '/data/local/tmp/test_push_file.txt'

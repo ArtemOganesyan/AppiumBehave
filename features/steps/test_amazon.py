@@ -50,7 +50,7 @@ def assert_top_picks_under_199_image_visible(context):
         assert True
     else:
         log.debug(f'{context.scenario} taking error screenshot')
-        context.driver.save_screenshot(f'./screenshots/{context.scenario}.png')
+        utilities.utility_methods.take_screenshot(context.driver, context.scenario)
         assert False
 
 
@@ -99,5 +99,5 @@ def assert_side_menu_header_text(context, expected_text):
         assert True
     else:
         log.debug(f'{context.scenario} taking error screenshot')
-        context.driver.save_screenshot(f'./screenshots/{context.scenario}.png')
+        utilities.utility_methods.take_screenshot(context.driver, context.scenario)
         assert False

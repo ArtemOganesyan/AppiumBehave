@@ -20,7 +20,7 @@ Feature: Amazon IN app
         And I accept incoming call
         And I cancel incoming call
         And I tap navi burger
-        Then I see "Hello. Sign In" in side menu header
+        Then I see "Hell. Sign In" in side menu header
 
 
 
