@@ -3,6 +3,8 @@ import time
 
 from appium.webdriver.common.appiumby import AppiumBy
 from behave import *
+
+import utilities.utility_methods
 from pom.home_screen import HomeScreen
 from logger import get_logger
 
@@ -41,12 +43,61 @@ def scroll_down_to_header_home_screen(context):
 
 
 @step('I see top picks under 199 image')
-def check_top_picks_under_199_image_visible(context):
+def assert_top_picks_under_199_image_visible(context):
     log.debug(f'{context.scenario} asserting top picks under 199 image visibility')
     visibility = context.home_screen.top_pics_image_199_is_visible()
     if visibility:
         assert True
     else:
         log.debug(f'{context.scenario} taking error screenshot')
-        context.driver.save_screenshot(f'./screenshots/{context.scenario}.png')
+        utilities.utility_methods.take_screenshot(context.driver, context.scenario)
+        assert False
+
+
+@step('I receive incoming call')
+def get_incoming_call(context):
+    log.debug('simulating incoming call')
+    utilities.utility_methods.get_incoming_call(context.driver)
+
+
+@step('I accept incoming call')
+def accept_incoming_call(context):
+    log.debug('accepting incoming call')
+    utilities.utility_methods.accept_incoming_call(context.driver)
+
+
+@step('I cancel incoming call')
+def cancel_incoming_call(context):
+    log.debug('canceling incoming call')
+    utilities.utility_methods.cancel_incoming_call(context.driver)
+    time.sleep(5)
+
+
+@step('I input "{query}" into search field on Home Screen')
+def input_text_into_search_field(context, query):
+    log.debug('inputting query into search field')
+    context.home_screen.input_text_into_search_field(query)
+
+
+@step('I hit enter key')
+def hit_enter_key(context):
+    log.debug('hitting enter key')
+    utilities.utility_methods.enter(context.driver)
+
+
+@step('I tap navi burger')
+def tap_burger(context):
+    log.debug('tapping burger')
+    context.home_screen.tap_navi_burger()
+
+
+@step('I see "{expected_text}" in side menu header')
+def assert_side_menu_header_text(context, expected_text):
+    log.debug('asserting text in side menu header')
+    actual_text = context.home_screen.get_side_menu_header_text()
+    if actual_text == expected_text:
+        assert True
+    else:
+        log.debug(f'{context.scenario} taking error screenshot')
+        utilities.utility_methods.take_screenshot(context.driver, context.scenario)
         assert False

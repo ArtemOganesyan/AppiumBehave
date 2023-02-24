@@ -18,7 +18,6 @@ def before_scenario(context, scenario):
     # service = AppiumService()
     # service.start(args=['--address', str(default_host), '-p', str(default_port)])
 
-
     # invoking driver
     dc = get()['Amazon_Pixel6']
     log.debug('invoking driver')
@@ -30,4 +29,5 @@ def after_scenario(context, scenario):
     log.debug('killing driver')
     context.driver.quit()
     # context.appium_service.stop()
+
 
